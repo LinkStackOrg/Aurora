@@ -1,4 +1,4 @@
-# A LittleLink Custom Theme
+# LittleLink Aurora Theme
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
 *	Theme Name: Aurora
