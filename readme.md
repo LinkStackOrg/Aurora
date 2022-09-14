@@ -2,7 +2,7 @@
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
 *	Theme Name: Aurora
-*	Theme Version: 1.1
+*	Theme Version: 1.2
 *	Theme Date: 2022-07-21
 *	Theme Author: KiwiSin
 *	Theme Author URI: https://me.unraid.nz/@kiwi
