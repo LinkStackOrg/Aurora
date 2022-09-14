@@ -14,7 +14,3 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
 * Built using:
 * https://github.com/dhg/Skeleton
 * License: MIT
-
-*
-* ...
-*
