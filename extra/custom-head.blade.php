@@ -29,12 +29,10 @@ Down below, you can find a few examples using this function:
 	  	color: white;
       	font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		background-image:
-		url({{themeAsset('aurora.jpg')}});
+		url({{themeAsset('../../aurora.jpg')}});
 		no-repeat center center fixed; 
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		background-size: cover;
 	}
-	
 </style>
-
