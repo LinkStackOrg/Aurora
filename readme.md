@@ -1,5 +1,5 @@
-# LittleLink Custom Aurora Theme
-Find more themes: https://github.com/JulianPrieber/llc-themes
+# LinkStack Aurora Theme
+Find more themes: https://linkstack.org/themes/
                                                                                                                                                                          
 *	Theme Name: Aurora
 *	Theme Version: 1.7
@@ -7,7 +7,7 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
 *	Theme Author: KiwiSin
 *	Theme Author URI: https://me.unraid.nz/@kiwi
 *	Theme License: GPLv3
-*	Source code: https://github.com/LittleLink-Custom/Aurora
+*	Source code: https://github.com/LinkStackOrg/Aurora
 
 
 ### Used assets:

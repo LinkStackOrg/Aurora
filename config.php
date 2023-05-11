@@ -7,7 +7,7 @@ return [
     | Theme Config
     |--------------------------------------------------------------------------
     |
-    | The theme config allows you to configure how LittleLink Custom should treat your theme.
+    | The theme config allows you to configure how Linkstack should treat your theme.
     | All settings can either be set to "true" or "false", unless stated otherwise.
     | 
     | The settings below change how your buttons behave.
@@ -40,12 +40,12 @@ return [
     | 
     */
 
-    'enable_custom_code' => 'true',
+    'enable_custom_code' => 'false',
 
     // Disable individual files (only applies if above is 'true').
     'enable_custom_head'     => 'true',
-    'enable_custom_body'     => 'false',
-    'enable_custom_body_end' => 'false',
+    'enable_custom_body'     => 'true',
+    'enable_custom_body_end' => 'true',
 
 
     /*
