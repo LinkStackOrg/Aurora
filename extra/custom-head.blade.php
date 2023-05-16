@@ -28,9 +28,7 @@ Down below, you can find a few examples using this function:
       	font-weight: 400;
 	  	color: white;
       	font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-		background-image:
-		url({{themeAsset('../../aurora.jpg')}});
-		no-repeat center center fixed; 
+		background: url({{themeAsset('../../aurora.jpg')}}) no-repeat center center fixed; 
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		background-size: cover;
